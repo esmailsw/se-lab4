@@ -1,0 +1,4 @@
+# SINGLE shots alternate between the stores
+GT4500,10,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
