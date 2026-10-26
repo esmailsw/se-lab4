@@ -1,0 +1,4 @@
+# If the next store is empty, the other store fires
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
